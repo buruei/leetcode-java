@@ -1,6 +1,10 @@
 package cn.drumx;
 
-//盛最多水的容器
+/**
+ * @author Mark Zheng drumx.cn @鸡腿毁灭者
+ * @description 盛最多水的容器 https://leetcode.cn/problems/container-with-most-water
+ * @create 2025-01-15 15:58
+ */
 public class WaterContainer {
 
     public static void main(String[] args) {
